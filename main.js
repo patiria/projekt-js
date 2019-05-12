@@ -1,0 +1,1 @@
+alert('Akademia 108');
